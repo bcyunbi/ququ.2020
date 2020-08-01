@@ -564,7 +564,7 @@ __webpack_require__.r(__webpack_exports__);
 let HomeComponent = class HomeComponent {
     constructor(db) {
         this.isClickMenu = false;
-        this.menuChars = ['M', 'e', 'n', 'u'];
+        this.menuChars = ['M', 'E', 'N', 'U'];
         this.menuList = ['簡歷', '保險專員系統', '醫院掛號系統', '銀行業官網維護', '大學線上作品集'];
         this.infoList = [
             {
